@@ -13,10 +13,10 @@ export default {
       default: ''
     }
   },
-  data() {
-    return {};
+  data () {
+    return {}
   }
-};
+}
 </script>
 
 <style lang="scss">
